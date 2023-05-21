@@ -1,0 +1,18 @@
+Package: terminator
+Version: 2.1.1-1
+Architecture: all
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Installed-Size: 2265
+Depends: python3-cairo, python3-configobj, python3-dbus, python3-gi, python3-gi-cairo, python3-psutil, gir1.2-glib-2.0, gir1.2-gtk-3.0, gir1.2-pango-1.0, gir1.2-vte-2.91, gsettings-desktop-schemas, python3:any
+Recommends: default-dbus-session-bus | dbus-session-bus, gir1.2-keybinder-3.0, gir1.2-notify-0.7, xdg-utils
+Provides: x-terminal-emulator
+Section: misc
+Priority: optional
+Homepage: https://github.com/gnome-terminator/terminator
+Description: multiple GNOME terminals in one window
+ Terminator is a little project to produce an efficient way of
+ filling a large area of screen space with terminals.
+ .
+ The user can have multiple terminals in one window and use
+ key bindings to switch between them. See the manpage for
+ details.
