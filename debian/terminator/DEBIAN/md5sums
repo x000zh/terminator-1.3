@@ -43,7 +43,7 @@ f14a62a5fcc86faceefbd1c6e7f0f526  usr/lib/python3/dist-packages/terminatorlib/te
 3ff6af2152e8bfd63515dc26f2f8a4a7  usr/lib/python3/dist-packages/terminatorlib/translation.py
 eafbcbbdf5b2dc5519343da9fa4e2d46  usr/lib/python3/dist-packages/terminatorlib/util.py
 26746fd588145c805812c068f8a4d4a0  usr/lib/python3/dist-packages/terminatorlib/version.py
-c952858116ea7aabed39bd10c04a8b68  usr/lib/python3/dist-packages/terminatorlib/window.py
+e7d5ae973862d6a772a850a10c3b1ebb  usr/lib/python3/dist-packages/terminatorlib/window.py
 581b11f8f4af0506e6e8c38246e2b29f  usr/share/applications/terminator.desktop
 74360e31a870123efa6f45171497d965  usr/share/doc/terminator/CHANGELOG.legacy.txt.gz
 cc60a5afedc9398796e614606e4ed7c6  usr/share/doc/terminator/changelog.Debian.gz
